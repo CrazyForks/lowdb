@@ -56,6 +56,12 @@ It's that simple. `db.data` is just a JavaScript object, no magic.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://serpapi.com/?utm_source=typicode" target="_blank">
+    <img src="https://github.com/user-attachments/assets/52b3039d-1e4c-4c68-951c-93f0f1e73611" height="70px">
+  </a>
+</p>
+
 <br>
 <br>
 
